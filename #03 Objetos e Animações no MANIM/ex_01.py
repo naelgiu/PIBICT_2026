@@ -1,6 +1,6 @@
 from manim import *
 
-class ex01(Scene):
+class ex_01(Scene):
     def construct(self):
 
         # Criando os objetos da nossa cena
